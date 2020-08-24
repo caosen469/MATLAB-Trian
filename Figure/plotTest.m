@@ -70,8 +70,8 @@ title('error bar');
 xlabel('x');
 ylabel('y');
 
-subplot(2, 3, 2)
-stemplot(x, y);
-title('Stemplot');
-xlabel('x');
-ylabel('y');
+% subplot(2, 3, 2)
+% stemplot(x, y);
+% title('Stemplot');
+% xlabel('x');
+% ylabel('y');
